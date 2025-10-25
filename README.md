@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!--# 💫 About Me:
 🔭 I’m currently working on these Apps:
 <br>Musicly - a music player app that utilizes material 3 based on flutter. 
 <br>Markly - a markdown editor tailored for developers, and,
@@ -26,7 +26,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+-->
 
 
 <!--
