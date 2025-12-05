@@ -1,13 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on these Apps:
-<br>Musicly - a music player app that utilizes material 3 based on flutter. 
-<br>Markly - a markdown editor tailored for developers, and Zealify - A developer-friendly app that puts programming documentation right in your pocket.
+🌱 I’m currently learning in Flutter, React Native for cross-platform app development.
+<br>For Web Dev, I'm learning React and Astro.
+<br>💬 Ask me about anything.
 <br>👯 I’m looking to collaborate on other software devs, app devs, or web devs to exchange, learn, and enhance my skills.
 <br>🤝 I’m looking for help with maintain, and help contribute for my apps.
-<br>🌱 I’m currently learning in Flutter, React Native for Cross-platform App Development.
-<br>For Web Dev, React.
-<br>💬 Ask me about anything.
 <br>⚡ Fun fact about me is that I'm still learning.
+#
+## 💻 My Projects:
+🔭 I’m currently working on these Apps:
+<br>• (App) - Music player app that utilizes material 3 based on flutter. 
+<br>• (App) - Markdown editor tailored for developers
+<br>• (App) - A developer-friendly app that puts programming documentation right in your pocket.
 
 
 ## 🌐 Socials:
