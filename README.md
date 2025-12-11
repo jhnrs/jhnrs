@@ -5,13 +5,12 @@
 <br>👯 I’m looking to collaborate on other software devs, app devs, or web devs to exchange, learn, and enhance my skills.
 <br>🤝 I’m looking for help with maintain, and help contribute for my apps.
 <br>⚡ Fun fact about me is that I'm still learning.
-#
+
 ## 💻 My Projects:
 🔭 I’m currently working on these Apps:
 <br>• (App) - Music player app that utilizes material 3 based on flutter. 
 <br>• (App) - Markdown editor tailored for developers
 <br>• (App) - A developer-friendly app that puts programming documentation right in your pocket.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/justjohn07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnrosales933@gmail.com) 
