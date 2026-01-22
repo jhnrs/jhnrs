@@ -1,29 +1,41 @@
-# 💫 About Me:
-🌱 I’m currently learning in Flutter, React Native for cross-platform app development.
-<br>For Web Dev, I'm learning React and Astro.
-<br>💬 Ask me about anything.
-<br>👯 I’m looking to collaborate on other software devs, app devs, or web devs to exchange, learn, and enhance my skills.
-<br>🤝 I’m looking for help with maintain, and help contribute for my apps.
-<br>⚡ Fun fact about me is that I'm still learning.
+### 💫 About Me:
 
-## 💻 My Projects:
-🔭 I’m currently working on these Apps:
-<br>• (App) - Music player app that utilizes material 3 based on flutter. 
-<br>• (App) - Markdown editor tailored for developers
-<br>• (App) - A developer-friendly app that puts programming documentation right in your pocket.
+<div style='text-align: center'>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/justjohn07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnrosales933@gmail.com) 
+## Currently learning:
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#### Cross-platform App Development:
+ [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev)
+[![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev)  
+
+#### 🌐 Web Development:
+
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build)  
+
+
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/justjohn07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnrosales933@gmail.com) 
+
+
+
+#### 💻 Programming Languages:
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+#### Web Technologies:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+#### Tools:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!--![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)-->
-<!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)--> 
 <!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
 <!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)-->
-<!--![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)-->
-<!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
-<!--![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jhnrs&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jhnrs&theme=dark&hide_border=true)<br/>
@@ -34,6 +46,28 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+</div>
+
+> ⚡ I'm still learning.  
+💬 Ask me about anything.  
+👯 I’m looking to collaborate on other software devs, app devs, or web devs to exchange, learn, and enhance my skills.  
+
+## 💻 My Projects:
+
+### 🔭 Currently working on these projects:
+> Note: some of these project are in concept.
+
+- **Loom** - A **Music player app** that utilizes Material 3 Design using Flutter for UI consistency among different platforms.  
+- **Gutter** - A **Markdown editor app** tailored for developers.  
+- **Zealify** - A **Programming docset app** that puts programming documentation right in your pocket.
+- **"Sinupan"** (Tagalog for "Archive" or "Place for keeping things") - A **Filipino Dialect Database app** aimed at the goal of preserving endangered Philippine languages and connecting native speakers through a shared digital archive of their unique cultural expressions. 
+- **Iter** - is a mobile Flutter app that lets students write and run Flutter code in real-time to master mobile development through hands-on experimentation.
+
+
+<div style="text-align: center">
+
+
+</div>
 
 
 
