@@ -40,7 +40,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 💻 My Projects:
+<!-- ## 💻 My Projects:
 
 ### 🔭 Currently working on these projects (Private):
 > Note: some of these project are still in concept.
@@ -49,6 +49,6 @@
 - **Markly** - A **notes app**.  
 - **Zealify** - A **Programming docset app** that puts programming documentation right in your pocket.
 - **"Sinupan"** (Tagalog for "Archive" or "Place for keeping things") - A **Filipino Dialect Database app** aimed at the goal of preserving endangered Philippine languages and connecting native speakers through a shared digital archive of their unique cultural expressions. 
-- **Iter** - is a mobile Flutter app that lets students write and run Flutter code in real-time to develop an intuition for mobile development through hands-on experimentation. And help understand the structure (widget tree) of using the framework.
+- **Iter** - is a mobile Flutter app that lets students write and run Flutter code in real-time to develop an intuition for mobile development through hands-on experimentation. And help understand the structure (widget tree) of using the framework. -->
 
 ![Space Shooter Game](game.gif)
